@@ -99,6 +99,7 @@ Use these scripts to:
 - test robustness against delay thresholds
 - generate performance curves
 - compare delay-capped vs uncapped results
+  
  This folder also contains the plots visualizing key performance metrics generated after training, including delay measures, and learning curves.
 
 ---
@@ -109,6 +110,7 @@ Contains scripts for **systematic hyperparameter tuning** such as:
 - learning rate sweeps
 - reward weight adjustments
 - exploration schedule tuning
+  
   This folder also contains the plots visualizing key performance metrics generated after training, including delay measures, and learning curves.
 
 
