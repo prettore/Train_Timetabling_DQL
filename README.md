@@ -67,7 +67,6 @@ These folders contain scripts for specific model configurations:
 #### 📦 `ModelA_Scripts/`
 Training and evaluation routine for **Model A** (baseline reward design). This folder also contains the plots visualizing key performance metrics generated after training, including delay measures, and learning curves.
 
-ma
 #### 📦 `ModelB_Scripts/`
 Scripts implementing **Model B** with adjusted reward shaping and improvements.  This folder also contains the plots visualizing key performance metrics generated after training, including delay measures, and learning curves.
 
@@ -90,7 +89,6 @@ These include:
 - replay buffer
 - optimizer setup
 - model loading/saving functions
-
 ---
 
 ### ⚙️ `Delay_Cap_120_Scripts/`
@@ -111,9 +109,10 @@ Contains scripts for **systematic hyperparameter tuning** such as:
 - learning rate sweeps
 - reward weight adjustments
 - exploration schedule tuning
+  This folder also contains the plots visualizing key performance metrics generated after training, including delay measures, and learning curves.
+
 
 Use this folder to find the best configuration before training main models.
-This folder also contains the plots visualizing key performance metrics generated after training, including delay measures, and learning curves.
 ---
 
 ### 📈 `plot_generation.py`
