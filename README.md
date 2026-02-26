@@ -1,7 +1,8 @@
 # Train_Timetabling_DQL
 
 
-This repository contains all code, data, and scripts used in my Master's thesis on applying reinforcement learning (RL) to microscopic train timetable conflict resolution. The goal is to construct an Alternative Graph (AG) representation from real railway data and train an RL agent that quickly generates feasible conflict-resolution decisions, and to compare its performance with baseline methods.
+This repository contains all code, data, and scripts used in my [Master's thesis](https://www.rettore.com.br/data/thesis/Thesis_Shruthi.pdf) 
+ on applying reinforcement learning (RL) to microscopic train timetable conflict resolution. The goal is to construct an Alternative Graph (AG) representation from real railway data and train an RL agent that quickly generates feasible conflict-resolution decisions, and to compare its performance with baseline methods.
 
 ---
 
